@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ejercicio_Individual/MenuPrincipal.unity
+    guid: 122fc6832801ec4439e71682d3a5742e
+  - enabled: 1
+    path: Assets/Ejercicio_Individual/MenuOpciones.unity
+    guid: aee4294e5bf92374998b6bb73dbf3a3f
+  - enabled: 1
+    path: Assets/Ejercicio_Individual/MenuSonido.unity
+    guid: 53826f8f64dfbad4c89490764715433b
+  - enabled: 1
+    path: Assets/Nivel_1/water.unity
+    guid: e0e46d7c1610c5d439eb493d4abe113d
+  - enabled: 1
+    path: Assets/Nivel_1/explosion.unity
+    guid: 0cd964ea238515540b748a8ef1859838
+  - enabled: 1
+    path: Assets/Nivel_1/Nivel_1 1.unity
+    guid: 0d3ead8639244644cb39ab57de6ef467
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
